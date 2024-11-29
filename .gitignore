@@ -1,0 +1,29 @@
+# Compiled object files
+*.o
+
+# Executable files
+wifi4_debug
+wifi4_optimized
+wifi5_debug
+wifi5_optimized
+wifi6_debug
+wifi6_optimized
+
+# Compiled source files
+*.out
+*.exe
+
+# Backup files
+*~
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.log
+
+# Build directories
+build/
+bin/
